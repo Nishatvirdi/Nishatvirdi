@@ -54,13 +54,17 @@ Senior Secondary (CBSE, PCMB) – April 2021 | 80.2%
 
 ## 🚀 Projects
 
-**[AutoLeaseX – Car Rental App](https://github.com/Nishatvirdi/AutoLeaseX)**  
-- Real-time booking system using Hibernate ORM & PostgreSQL  
-- Role-based access for Admin (car management) and Users (car booking)  
+### **AutoLeaseX – Car Rental App**  
+![AutoLeaseX GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
+**Description:** Real-time booking system using Hibernate ORM & PostgreSQL. Role-based access for Admin (car management) and Users (car booking).  
+[View on GitHub](https://github.com/Nishatvirdi/AutoLeaseX)
 
-**[Faculty360 – Faculty Management ERP](https://github.com/Nishatvirdi/Faculty360)**  
-- ERP system built with FlutterFlow, Firebase & Firestore  
-- Streamlined faculty operations, improving efficiency by 25%  
+---
+
+### **Faculty360 – Faculty Management ERP**  
+![Faculty360 GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
+**Description:** ERP system built with FlutterFlow, Firebase & Firestore. Streamlined faculty operations, improving efficiency by 25%.  
+[View on GitHub](https://github.com/Nishatvirdi/Faculty360)
 
 ---
 
@@ -89,4 +93,4 @@ Senior Secondary (CBSE, PCMB) – April 2021 | 80.2%
 
 ---
 
-**✨ Fun Fact:** I love building apps that simplify life and designing interfaces that users enjoy!  
+**✨ Fun Fact:** I love building apps that simplify life and designing interfaces that users enjoy!
