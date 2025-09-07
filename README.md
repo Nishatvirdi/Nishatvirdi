@@ -83,10 +83,10 @@ Senior Secondary (CBSE, PCMB) – April 2021 | 80.2%
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virdinishat@gmail.com)
 
 ---
-
+<!--
 ### ⚡ GitHub Stats
 ![Nishat's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishatVirdi&show_icons=true&theme=radical)
 
----
+--- -->
 
 **✨ Fun Fact:** I love building apps that simplify life and designing interfaces that users enjoy!  
